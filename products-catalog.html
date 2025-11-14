@@ -1,0 +1,76 @@
+﻿<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=5">
+    <title>كاتالوج المنتجات | سوق الأردن</title>
+    <link href="https://fonts.googleapis.com/css2?family=Tajawal:wght@300;400;500;700;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="site-components.css">
+    <link rel="stylesheet" href="catalog-styles.css">
+
+<!-- Google Merchant Center Desktop Fix -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, user-scalable=yes">
+<meta name="mobile-web-app-capable" content="yes">
+<style>
+html,body{margin:0;padding:0;min-width:320px;max-width:100%;overflow-x:hidden}
+@media (min-width:1024px){body{min-width:1024px;max-width:1920px;margin:0 auto}}
+@media (min-width:768px) and (max-width:1023px){body{min-width:768px}}
+@media (max-width:767px){body{min-width:320px}}
+</style>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Store",
+  "name": "سوق الأردن",
+  "url": "https://sooq-alurdun.arabsad.com",
+  "telephone": "+201110760081",
+  "email": "sherow1982@gmail.com",
+  "address": {"@type": "PostalAddress","addressCountry": "JO"}
+}
+</script>
+
+</head>
+<body>
+    <div id="site-header"></div>
+    <div class="top-search-bar">
+        <div class="top-search-wrapper">
+            <div class="site-logo">🛍️ سوق الأردن</div>
+            <div class="global-search">
+                <input type="search" id="global-search-input" placeholder="ابحث عن منتج..." autocomplete="off">
+                <i class="fas fa-search global-search-icon"></i>
+            </div>
+        </div>
+    </div>
+    <section class="hero">
+        <h1>كاتالوج منتجاتنا المميز</h1>
+        <p>تشكيلة منتجات أصلية بأسعار الأفضل</p>
+        <div class="hero-stats">
+            <div class="stat-item"><span class="stat-number" id="total-products"></span><span>منتج</span></div>
+            <div class="stat-item"><span class="stat-number">11</span><span>فئة</span></div>
+            <div class="stat-item"><span class="stat-number">⭐ 4.9</span><span>تقييم</span></div>
+            <div class="stat-item"><span class="stat-number">شحن مجاني</span><span>الأردن</span></div>
+        </div>
+    </section>
+    <div class="container">
+        <div class="filter-bar"><div class="categories-grid" id="categories"></div></div>
+        <div class="toolbar">
+            <div class="results-count">عرض <span id="showing-count">0</span> من <span id="total-count">0</span> منتج</div>
+            <select class="sort-select" id="sort-select">
+                <option value="default">الترتيب الافتراضي</option>
+                <option value="price-low">السعر: الأقل - الأعلى</option>
+                <option value="price-high">السعر: الأعلى - الأقل</option>
+            </select>
+        </div>
+        <div class="products-grid" id="products-container">
+            <div class="loading"><div class="spinner"></div><p>جاري التحميل...</p></div>
+        </div>
+        <div class="pagination" id="pagination" style="display:none"></div>
+    </div>
+    <button class="back-to-top" id="back-to-top"><i class="fas fa-arrow-up"></i></button>
+    <div id="site-footer"></div>
+    <script src="site-header.js"></script>
+    <script src="site-footer.js"></script>
+    <script src="catalog-products.js"></script>
+</body>
+</html>
