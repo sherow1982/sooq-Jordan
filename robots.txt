@@ -3,4 +3,5 @@ Allow: /
 Disallow: /cart.html
 Disallow: /checkout.html
 
-Sitemap: https://sherow1982.github.io/sooq-Jordan/sitemap.xml
+Sitemap: https://sooq-jordan.arabsad.com/sooq-Jordan/sitemap.xml
+

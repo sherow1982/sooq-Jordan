@@ -3,7 +3,7 @@ const fs = require('fs');
 // قراءة ملف المنتجات
 const products = JSON.parse(fs.readFileSync('products.json', 'utf8'));
 
-const baseURL = 'https://sherow1982.github.io/sooq-Jordan';
+const baseURL = 'https://https://sooq-jordan.arabsad.com';
 const today = new Date().toISOString().split('T')[0];
 
 // ===== 1. XML Sitemap =====
@@ -115,7 +115,7 @@ const sitemap = generateSitemap();
 fs.writeFileSync('sitemap.xml', sitemap, 'utf8');
 
 const merchantFeed = generateMerchantFeed();
-fs.writeFileSync('google-merchant-feed.xml', merchantFeed, 'utf8');
+fs.writeFileSync('', merchantFeed, 'utf8');
 
 const productFeedJSON = generateProductFeedJSON();
 fs.writeFileSync('product-feed.json', productFeedJSON, 'utf8');
@@ -126,7 +126,7 @@ fs.writeFileSync('robots.txt', robotsTxt, 'utf8');
 console.log('✅ تم إنشاء جميع الملفات بنجاح!');
 console.log('\n📁 الملفات المُنشأة:');
 console.log('   1️⃣ sitemap.xml (' + products.length + ' منتج + 2 صفحة)');
-console.log('   2️⃣ google-merchant-feed.xml (Google Shopping)');
+console.log('   2️⃣  (Google Shopping)');
 console.log('   3️⃣ product-feed.json (Facebook/Meta Catalog)');
 console.log('   4️⃣ robots.txt');
 console.log('\n🎯 الخطوات التالية:');
@@ -134,8 +134,9 @@ console.log('   1. ارفع جميع الملفات على GitHub');
 console.log('   2. افتح Google Search Console');
 console.log('   3. أضف Sitemap: ' + baseURL + '/sitemap.xml');
 console.log('   4. افتح Google Merchant Center');
-console.log('   5. أضف Feed: ' + baseURL + '/google-merchant-feed.xml');
+console.log('   5. أضف Feed: ' + baseURL + '/');
 console.log('\n📊 الإحصائيات:');
 console.log('   • عدد المنتجات: ' + products.length);
 console.log('   • عدد URLs في Sitemap: ' + (products.length + 2));
 console.log('   • حجم Google Feed: ~' + Math.round(merchantFeed.length / 1024) + ' KB');
+

@@ -35,7 +35,7 @@ const siteKeywords = 'تسوق اون لاين الاردن, شراء منتجا
 
 // توليد Schema
 const generateProductSchema = (product) => {
-    const productURL = 'https://sherow1982.github.io/sooq-Jordan/products/' + product.slug + '.html';
+    const productURL = 'https://https://sooq-jordan.arabsad.com/products/' + product.slug + '.html';
     return {
         "@context": "https://schema.org/",
         "@type": "Product",
@@ -56,7 +56,7 @@ const generateProductSchema = (product) => {
 
 // بطاقة منتج
 const generateProductCard = (product) => {
-    const productPageURL = 'https://sherow1982.github.io/sooq-Jordan/products/' + product.slug + '.html';
+    const productPageURL = 'https://https://sooq-jordan.arabsad.com/products/' + product.slug + '.html';
     const whatsappText = 
         '🛍️ *أريد شراء هذا المنتج*\\n\\n' +
         '📦 *المنتج:* ' + product.title + '\\n' +
@@ -106,7 +106,7 @@ const organizationSchema = {
     "@context": "https://schema.org",
     "@type": "Organization",
     "name": "سوق الأردن",
-    "url": "https://sherow1982.github.io/sooq-Jordan/",
+    "url": "https://https://sooq-jordan.arabsad.com/",
     "contactPoint": {"@type": "ContactPoint", "telephone": "+20-111-076-0081", "contactType": "Customer Service", "areaServed": "JO"}
 };
 
@@ -121,7 +121,7 @@ const indexHTML = `<!DOCTYPE html>
     <meta name="description" content="سوق الأردن - تسوق اون لاين افضل المنتجات بأسعار تنافسية مع توصيل مجاني سريع لكل المحافظات">
     <meta name="keywords" content="${siteKeywords}">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://sherow1982.github.io/sooq-Jordan/">
+    <link rel="canonical" href="https://https://sooq-jordan.arabsad.com/">
     <title>سوق الأردن - تسوق اون لاين | افضل الاسعار والخصومات 2024</title>
 
     ${gtmHead}
@@ -303,3 +303,4 @@ console.log('   • view_item - عند النقر على منتج');
 console.log('   • add_to_cart - عند النقر على "اطلبه واتساب"');
 console.log('   • search - عند البحث');
 console.log('\n🔥 جاهز للنشر!');
+

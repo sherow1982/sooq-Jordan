@@ -3,7 +3,7 @@ const fs = require('fs');
 // قراءة ملف المنتجات
 const products = JSON.parse(fs.readFileSync('products.json', 'utf8'));
 
-const baseURL = 'https://sherow1982.github.io/sooq-Jordan';
+const baseURL = 'https://https://sooq-jordan.arabsad.com';
 const today = new Date().toISOString().split('T')[0];
 
 // دالة لـ XML escape
@@ -158,7 +158,7 @@ const sitemap = generateSitemap();
 fs.writeFileSync('sitemap.xml', sitemap, 'utf8');
 
 const merchantFeed = generateMerchantFeed();
-fs.writeFileSync('google-merchant-feed.xml', merchantFeed, 'utf8');
+fs.writeFileSync('', merchantFeed, 'utf8');
 
 const productFeedJSON = generateProductFeedJSON();
 fs.writeFileSync('product-feed.json', productFeedJSON, 'utf8');
@@ -169,7 +169,7 @@ fs.writeFileSync('robots.txt', robotsTxt, 'utf8');
 console.log('✅ تم إنشاء جميع الملفات بنجاح بدون أخطاء!');
 console.log('\n📁 الملفات المُنشأة:');
 console.log('   1️⃣ sitemap.xml (URL encoded 100%)');
-console.log('   2️⃣ google-merchant-feed.xml');
+console.log('   2️⃣ ');
 console.log('   3️⃣ product-feed.json');
 console.log('   4️⃣ robots.txt');
 console.log('\n🔧 التحسينات:');
@@ -185,3 +185,4 @@ console.log('   • Google Search Console');
 console.log('   • Google Merchant Center');
 console.log('   • Facebook Commerce Manager');
 console.log('\n✅ بدون أخطاء نهائياً!');
+

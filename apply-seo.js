@@ -11,7 +11,7 @@ const siteKeywords = 'تسوق اون لاين الاردن, شراء منتجا
 
 // توليد Schema Markup للمنتج
 const generateProductSchema = (product) => {
-    const productURL = 'https://sherow1982.github.io/sooq-Jordan/products/' + product.slug + '.html';
+    const productURL = 'https://https://sooq-jordan.arabsad.com/products/' + product.slug + '.html';
     return {
         "@context": "https://schema.org/",
         "@type": "Product",
@@ -41,7 +41,7 @@ const generateProductSchema = (product) => {
 
 // توليد بطاقة منتج محسنة للسيو
 const generateProductCard = (product) => {
-    const productPageURL = 'https://sherow1982.github.io/sooq-Jordan/products/' + product.slug + '.html';
+    const productPageURL = 'https://https://sooq-jordan.arabsad.com/products/' + product.slug + '.html';
     const whatsappText = 
         '🛍️ *أريد شراء هذا المنتج*\\n\\n' +
         '📦 *المنتج:* ' + product.title + '\\n' +
@@ -112,8 +112,8 @@ const organizationSchema = {
     "@context": "https://schema.org",
     "@type": "Organization",
     "name": "سوق الأردن",
-    "url": "https://sherow1982.github.io/sooq-Jordan/",
-    "logo": "https://sherow1982.github.io/sooq-Jordan/logo.png",
+    "url": "https://https://sooq-jordan.arabsad.com/",
+    "logo": "https://https://sooq-jordan.arabsad.com/logo.png",
     "contactPoint": {
         "@type": "ContactPoint",
         "telephone": "+20-111-076-0081",
@@ -135,14 +135,14 @@ const indexHTML = `<!DOCTYPE html>
     <meta name="keywords" content="${siteKeywords}">
     <meta name="author" content="سوق الأردن">
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
-    <link rel="canonical" href="https://sherow1982.github.io/sooq-Jordan/">
+    <link rel="canonical" href="https://https://sooq-jordan.arabsad.com/">
 
     <!-- Open Graph -->
     <meta property="og:locale" content="ar_AR">
     <meta property="og:type" content="website">
     <meta property="og:title" content="سوق الأردن - تسوق اون لاين بأفضل الأسعار">
     <meta property="og:description" content="أفضل المنتجات بأسعار تنافسية مع توصيل مجاني سريع">
-    <meta property="og:url" content="https://sherow1982.github.io/sooq-Jordan/">
+    <meta property="og:url" content="https://https://sooq-jordan.arabsad.com/">
     <meta property="og:site_name" content="سوق الأردن">
 
     <title>سوق الأردن - تسوق اون لاين | افضل الاسعار والخصومات 2024</title>
@@ -339,3 +339,4 @@ console.log('   ✅ Internal linking محسّن');
 console.log('   ✅ عناوين H1, H2, H3 منظمة');
 console.log('   ✅ Loading lazy للصور');
 console.log('   ✅ روابط نظيفة وواضحة');
+
