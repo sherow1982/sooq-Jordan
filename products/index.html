@@ -14,13 +14,12 @@
         .products-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 25px; margin: 30px 0; }
         .product-card { background: white; border-radius: 10px; overflow: hidden; box-shadow: 0 5px 15px rgba(0,0,0,0.1); transition: transform 0.3s ease; cursor: pointer; }
         .product-card:hover { transform: translateY(-5px); box-shadow: 0 10px 25px rgba(0,0,0,0.15); }
-        .product-image { width: 100%; height: 250px; background: linear-gradient(135deg, #667eea15 0%, #764ba215 100%); display: flex; align-items: center; justify-content: center; font-size: 3em; object-fit: cover; }
+        .product-image { width: 100%; height: 250px; object-fit: cover; }
         .product-info { padding: 20px; }
         .product-info h3 { color: #667eea; margin-bottom: 10px; font-size: 1.1em; }
         .product-info p { color: #7f8c8d; font-size: 0.95em; margin-bottom: 15px; }
         .product-price { font-size: 1.3em; color: #e74c3c; font-weight: bold; margin-bottom: 10px; }
-        .btn { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; text-decoration: none; display: inline-block; transition: opacity 0.3s; width: 100%; text-align: center; }
-        .btn:hover { opacity: 0.9; }
+        .btn { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; text-decoration: none; display: inline-block; transition: opacity 0.3s; width: 100%; text-align: center; pointer-events: none; }
         .breadcrumb { background: white; padding: 15px 20px; margin-bottom: 30px; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); }
         .breadcrumb a { color: #667eea; text-decoration: none; font-weight: 600; }
         footer { text-align: center; margin-top: 50px; padding-top: 30px; border-top: 2px solid #e0e0e0; color: #7f8c8d; font-size: 0.95em; }
@@ -31,83 +30,50 @@
         <div class="breadcrumb">
             <a href="../index.html">الرئيسية</a> / كتالوج المنتجات
         </div>
-
         <header>
             <h1>📦 كتالوج المنتجات</h1>
             <p>تصفح جميع منتجاتنا الأصلية بأفضل الأسعار</p>
         </header>
-
         <div id="products-container" class="products-grid"></div>
     </div>
-
     <footer>
         <p>&copy; 2025 سوق الأردن. جميع الحقوق محفوظة.</p>
     </footer>
-
-                    
-
-        <script>
-(function() {
-    try {
+    <script>
+    (function() {
         fetch('../products.json')
             .then(response => response.json())
             .then(products => {
                 const container = document.getElementById('products-container');
                 if (!container) return;
                 if (!Array.isArray(products) || products.length === 0) {
-                    container.innerHTML = '<p style=\"grid-column: 1/-1; text-align: center;\">لا توجد منتجات</p>';
+                    container.innerHTML = '<p style="grid-column: 1/-1; text-align: center;">لا توجد منتجات</p>';
                     return;
                 }
                 container.innerHTML = '';
                 products.forEach(product => {
-                    try {
-                        const title = product.title || 'منتج';
-                        const description = product.description || 'منتج أصلي';
-                        const salePrice = product.sale_price || '0';
-                        const originalPrice = product.price || '0';
-                        const imageLink = product.image_link || 'https://via.placeholder.com/300';
-                        const slug = product.slug || '';
-                        const productLink = https://sooq-jordan.arabsad.com/products/جهاز-تنظيف-الأذن.html;
-                        let pricesHTML = <div class=\"product-price\"> د.ا</div>;
-                        if (originalPrice !== salePrice && originalPrice) {
-                            pricesHTML = 
-                                <div style=\"display: flex; gap: 10px; align-items: center; justify-content: center;\">
-                                    <span style=\"color: #e74c3c; font-size: 1.3em; font-weight: bold;\"> د.ا</span>
-                                    <span style=\"color: #bdc3c7; text-decoration: line-through; font-size: 1em;\"> د.ا</span>
-                                </div>
-                            ;
-                        }
-                        const cardHTML = 
-                            <div class=\"product-card\" onclick=\"window.open('','_blank');\" style=\"cursor: pointer;\">
-                                <img src=\"https://firebasestorage.googleapis.com/v0/b/ashyaatcrm.appspot.com/o/images%2Fashyaat5XTtx6oX.jpg?alt=media&token=d1ef1624-d928-4095-8109-3220950eac36\" 
-                                     alt=\"جهاز تنظيف الأذن\" 
-                                     class=\"product-image\"
-                                     onerror=\"this.src='https://via.placeholder.com/300x300/667eea/ffffff'\">
-                                <div class=\"product-info\">
-                                    <h3>جهاز تنظيف الأذن</h3>
-                                    <p>...</p>
-                                    
-                                    <button class=\"btn\" style=\"margin-top: 10px; pointer-events: none;\">عرض التفاصيل</button>
-                                </div>
-                            </div>
-                        ;
-                        container.innerHTML += cardHTML;
-                    } catch(err) {
-                        console.error('خطأ بناء بطاقة المنتج:', err);
+                    const title = product.title || 'منتج';
+                    const description = product.description || '';
+                    const salePrice = product.sale_price || '0';
+                    const originalPrice = product.price || '0';
+                    const imageLink = product.image_link || 'https://via.placeholder.com/300';
+                    const slug = product.slug || '';
+                    const productLink = 'https://sooq-jordan.arabsad.com/products/' + slug + '.html';
+                    
+                    let pricesHTML = '<div class="product-price">' + salePrice + ' د.ا</div>';
+                    if (originalPrice !== salePrice && originalPrice) {
+                        pricesHTML = '<div style="display: flex; gap: 10px; align-items: center; justify-content: center;"><span style="color: #e74c3c; font-size: 1.3em; font-weight: bold;">' + salePrice + ' د.ا</span><span style="color: #bdc3c7; text-decoration: line-through; font-size: 1em;">' + originalPrice + ' د.ا</span></div>';
                     }
+                    
+                    const card = document.createElement('div');
+                    card.className = 'product-card';
+                    card.onclick = function() { window.open(productLink, '_blank'); };
+                    card.innerHTML = '<img src="' + imageLink + '" alt="' + title + '" class="product-image" onerror="this.src=\'https://via.placeholder.com/300x300/667eea/ffffff\'"><div class="product-info"><h3>' + title + '</h3><p>' + description.substring(0, 50) + '...</p>' + pricesHTML + '<button class="btn">عرض التفاصيل</button></div>';
+                    container.appendChild(card);
                 });
             })
-            .catch(error => console.error('خطأ:', error));
-    } catch(e) {}
-})();
-</script>
+            .catch(error => console.error('Error loading products:', error));
+    })();
+    </script>
 </body>
 </html>
-
-
-
-
-
-
-
-
