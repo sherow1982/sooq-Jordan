@@ -44,38 +44,49 @@
         <p>&copy; 2025 سوق الأردن. جميع الحقوق محفوظة.</p>
     </footer>
 
-                    <script>
+                    
+
+    <script>
     (function() {
         try {
-            fetch('../product-feed.json')
-                .then(response => response.json())
+            fetch('../products.json')
+                .then(response => {
+                    if (!response.ok) throw new Error('فشل تحميل products.json');
+                    return response.json();
+                })
                 .then(products => {
                     const container = document.getElementById('products-container');
                     if (!container) return;
                     
-                    if (!products || products.length === 0) {
+                    if (!Array.isArray(products) || products.length === 0) {
                         container.innerHTML = '<p style="grid-column: 1/-1; text-align: center;">لم يتم العثور على منتجات</p>';
                         return;
                     }
                     
+                    container.innerHTML = '';
+                    
                     products.forEach((product, index) => {
                         try {
                             const productId = String(product.id).trim();
+                            const title = product.title || 'منتج';
+                            const description = product.description || 'منتج أصلي';
+                            const salePrice = product.sale_price || '0';
+                            const imageLink = product.image_link || 'https://via.placeholder.com/300x300/667eea/ffffff';
                             const productLink = `./${productId}.html`;
                             
-                            console.log(`Product ${index}: ID=${productId}, Link=${productLink}`);
+                            console.log(`Product ${index}: ID=${productId}, Title=${title}, Price=${salePrice}`);
                             
                             const cardHTML = `
                                 <div class="product-card" data-product-id="${productId}">
-                                    <img src="${product.image_link}" 
-                                         alt="${product.title}" 
+                                    <img src="${imageLink}" 
+                                         alt="${title}" 
                                          class="product-image"
                                          onerror="this.src='https://via.placeholder.com/300x300/667eea/ffffff'">
                                     <div class="product-info">
-                                        <h3>${product.title}</h3>
-                                        <p>${product.description ? product.description.substring(0, 50) + '...' : 'منتج أصلي'}</p>
-                                        <div class="product-price">${product.sale_price} د.ا</div>
-                                        <button class="btn" onclick="window.location.href='${productLink}';">عرض التفاصيل</button>
+                                        <h3>${title}</h3>
+                                        <p>${description.substring(0, 50)}...</p>
+                                        <div class="product-price">${salePrice} د.ا</div>
+                                        <button class="btn" onclick="window.location.href='${productLink}';" style="cursor: pointer;">عرض التفاصيل</button>
                                     </div>
                                 </div>
                             `;
@@ -91,6 +102,7 @@
     </script>
 </body>
 </html>
+
 
 
 
