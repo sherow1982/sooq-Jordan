@@ -3,7 +3,7 @@
   <channel>
     <title>سوق الأردن</title>
     <link>https://sherow1982.github.io/sooq-Jordan</link>
-    <description>أفضل المنتجات بأسعار تنافسية</description>
+    <description>أفضل المنتجات بأسعار تنافسية في الأردن</description>
     <item>
       <g:id>74</g:id>
       <g:title><![CDATA[جهاز ازالة الشعر بالليزر]]></g:title>
@@ -14,11 +14,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>121 JOD</g:price>
+      <g:sale_price>121 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.000286</g:gtin>
       <g:mpn>A.000286</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -31,11 +32,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>53 JOD</g:price>
+      <g:sale_price>53 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.005488</g:gtin>
       <g:mpn>A.005488</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -48,11 +50,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>52.3 JOD</g:price>
+      <g:sale_price>52.3 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.005327</g:gtin>
       <g:mpn>A.005327</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -65,11 +68,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>50.2 JOD</g:price>
+      <g:sale_price>50.2 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.001112</g:gtin>
       <g:mpn>A.001112</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -82,11 +86,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>50 JOD</g:price>
+      <g:sale_price>50 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.005271</g:gtin>
       <g:mpn>A.005271</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -99,11 +104,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>48.9 JOD</g:price>
+      <g:sale_price>48.9 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.001060</g:gtin>
       <g:mpn>A.001060</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -116,11 +122,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>47.5 JOD</g:price>
+      <g:sale_price>47.5 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.004879</g:gtin>
       <g:mpn>A.004879</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -133,11 +140,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>47.3 JOD</g:price>
+      <g:sale_price>47.3 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.004143</g:gtin>
       <g:mpn>A.004143</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -150,11 +158,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>47.3 JOD</g:price>
+      <g:sale_price>47.3 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.001380</g:gtin>
       <g:mpn>A.001380</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -167,11 +176,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>46.1 JOD</g:price>
+      <g:sale_price>46.1 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.000891</g:gtin>
       <g:mpn>A.000891</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -184,11 +194,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>45.2 JOD</g:price>
+      <g:sale_price>45.2 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.001980</g:gtin>
       <g:mpn>A.001980</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -201,11 +212,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>45 JOD</g:price>
+      <g:sale_price>45 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.002231</g:gtin>
       <g:mpn>A.002231</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -218,11 +230,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>41.6 JOD</g:price>
+      <g:sale_price>41.6 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.005358</g:gtin>
       <g:mpn>A.005358</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -235,11 +248,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>41.6 JOD</g:price>
+      <g:sale_price>41.6 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.004785</g:gtin>
       <g:mpn>A.004785</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -252,11 +266,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>41.6 JOD</g:price>
+      <g:sale_price>41.6 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.005375</g:gtin>
       <g:mpn>A.005375</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -269,11 +284,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>40.7 JOD</g:price>
+      <g:sale_price>40.7 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.005637</g:gtin>
       <g:mpn>A.005637</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -286,11 +302,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>40.5 JOD</g:price>
+      <g:sale_price>40.5 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.003773</g:gtin>
       <g:mpn>A.003773</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -303,11 +320,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>40.3 JOD</g:price>
+      <g:sale_price>40.3 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.001855</g:gtin>
       <g:mpn>A.001855</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -320,11 +338,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>39.3 JOD</g:price>
+      <g:sale_price>39.3 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.005414</g:gtin>
       <g:mpn>A.005414</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -337,11 +356,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>39.1 JOD</g:price>
+      <g:sale_price>39.1 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.005062</g:gtin>
       <g:mpn>A.005062</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -354,11 +374,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>39.1 JOD</g:price>
+      <g:sale_price>39.1 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.005377</g:gtin>
       <g:mpn>A.005377</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -371,11 +392,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>39.1 JOD</g:price>
+      <g:sale_price>39.1 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.005073</g:gtin>
       <g:mpn>A.005073</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -388,11 +410,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>38.5 JOD</g:price>
+      <g:sale_price>38.5 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.003685</g:gtin>
       <g:mpn>A.003685</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -405,11 +428,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>38 JOD</g:price>
+      <g:sale_price>38 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.001309</g:gtin>
       <g:mpn>A.001309</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -422,11 +446,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>37.2 JOD</g:price>
+      <g:sale_price>37.2 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.001620</g:gtin>
       <g:mpn>A.001620</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -439,11 +464,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>36.8 JOD</g:price>
+      <g:sale_price>36.8 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.003394</g:gtin>
       <g:mpn>A.003394</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -456,11 +482,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>36.6 JOD</g:price>
+      <g:sale_price>36.6 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.005411</g:gtin>
       <g:mpn>A.005411</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -473,11 +500,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>36.6 JOD</g:price>
+      <g:sale_price>36.6 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.000907</g:gtin>
       <g:mpn>A.000907</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -490,11 +518,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>36.5 JOD</g:price>
+      <g:sale_price>36.5 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.005640</g:gtin>
       <g:mpn>A.005640</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -507,11 +536,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>36 JOD</g:price>
+      <g:sale_price>36 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.005319</g:gtin>
       <g:mpn>A.005319</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -524,11 +554,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>36 JOD</g:price>
+      <g:sale_price>36 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.004873</g:gtin>
       <g:mpn>A.004873</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -541,11 +572,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>35.7 JOD</g:price>
+      <g:sale_price>35.7 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.005074</g:gtin>
       <g:mpn>A.005074</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -558,11 +590,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>35.7 JOD</g:price>
+      <g:sale_price>35.7 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.003435</g:gtin>
       <g:mpn>A.003435</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -575,11 +608,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>35.7 JOD</g:price>
+      <g:sale_price>35.7 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.005645</g:gtin>
       <g:mpn>A.005645</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -592,11 +626,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>35.5 JOD</g:price>
+      <g:sale_price>35.5 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.004649</g:gtin>
       <g:mpn>A.004649</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -609,11 +644,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>35.3 JOD</g:price>
+      <g:sale_price>35.3 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.005445</g:gtin>
       <g:mpn>A.005445</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -626,11 +662,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>35 JOD</g:price>
+      <g:sale_price>35 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.000899</g:gtin>
       <g:mpn>A.000899</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -643,11 +680,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>34.7 JOD</g:price>
+      <g:sale_price>34.7 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.001059</g:gtin>
       <g:mpn>A.001059</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -660,11 +698,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>34.3 JOD</g:price>
+      <g:sale_price>34.3 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.001593</g:gtin>
       <g:mpn>A.001593</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -677,11 +716,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>34.1 JOD</g:price>
+      <g:sale_price>34.1 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.003371</g:gtin>
       <g:mpn>A.003371</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -694,11 +734,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>34.1 JOD</g:price>
+      <g:sale_price>34.1 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.004817</g:gtin>
       <g:mpn>A.004817</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -711,11 +752,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>34 JOD</g:price>
+      <g:sale_price>34 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.001436</g:gtin>
       <g:mpn>A.001436</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -728,11 +770,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>33.6 JOD</g:price>
+      <g:sale_price>33.6 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.003808</g:gtin>
       <g:mpn>A.003808</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -745,11 +788,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>29.9 JOD</g:price>
+      <g:sale_price>29.9 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.005669</g:gtin>
       <g:mpn>A.005669</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -762,11 +806,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>29.9 JOD</g:price>
+      <g:sale_price>29.9 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.005642</g:gtin>
       <g:mpn>A.005642</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -779,11 +824,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>28.7 JOD</g:price>
+      <g:sale_price>28.7 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.004957</g:gtin>
       <g:mpn>A.004957</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -796,11 +842,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>28.7 JOD</g:price>
+      <g:sale_price>28.7 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.005002</g:gtin>
       <g:mpn>A.005002</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -813,11 +860,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>28.5 JOD</g:price>
+      <g:sale_price>28.5 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.005706</g:gtin>
       <g:mpn>A.005706</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -830,11 +878,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>28.5 JOD</g:price>
+      <g:sale_price>28.5 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.004668</g:gtin>
       <g:mpn>A.004668</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -847,11 +896,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>28.5 JOD</g:price>
+      <g:sale_price>28.5 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.005277</g:gtin>
       <g:mpn>A.005277</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -864,11 +914,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>28.2 JOD</g:price>
+      <g:sale_price>28.2 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.005130</g:gtin>
       <g:mpn>A.005130</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -881,11 +932,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>28 JOD</g:price>
+      <g:sale_price>28 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.005437</g:gtin>
       <g:mpn>A.005437</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -898,11 +950,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>27.9 JOD</g:price>
+      <g:sale_price>27.9 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.004193</g:gtin>
       <g:mpn>A.004193</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -915,11 +968,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>27.9 JOD</g:price>
+      <g:sale_price>27.9 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.000996</g:gtin>
       <g:mpn>A.000996</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -932,11 +986,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>27.8 JOD</g:price>
+      <g:sale_price>27.8 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.004316</g:gtin>
       <g:mpn>A.004316</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -949,11 +1004,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>27.8 JOD</g:price>
+      <g:sale_price>27.8 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.005297</g:gtin>
       <g:mpn>A.005297</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -966,11 +1022,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>27.4 JOD</g:price>
+      <g:sale_price>27.4 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.000979</g:gtin>
       <g:mpn>A.000979</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -983,11 +1040,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>27.3 JOD</g:price>
+      <g:sale_price>27.3 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.001182</g:gtin>
       <g:mpn>A.001182</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -1000,11 +1058,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>27.3 JOD</g:price>
+      <g:sale_price>27.3 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.000897</g:gtin>
       <g:mpn>A.000897</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -1017,11 +1076,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>27 JOD</g:price>
+      <g:sale_price>27 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.002080</g:gtin>
       <g:mpn>A.002080</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -1034,11 +1094,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>26.9 JOD</g:price>
+      <g:sale_price>26.9 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.002373</g:gtin>
       <g:mpn>A.002373</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -1051,11 +1112,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>26.7 JOD</g:price>
+      <g:sale_price>26.7 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.003469</g:gtin>
       <g:mpn>A.003469</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -1068,11 +1130,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>26.7 JOD</g:price>
+      <g:sale_price>26.7 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.005346</g:gtin>
       <g:mpn>A.005346</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -1085,11 +1148,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>26.6 JOD</g:price>
+      <g:sale_price>26.6 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.001081</g:gtin>
       <g:mpn>A.001081</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -1102,11 +1166,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>26.6 JOD</g:price>
+      <g:sale_price>26.6 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.001812</g:gtin>
       <g:mpn>A.001812</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -1119,11 +1184,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>26.5 JOD</g:price>
+      <g:sale_price>26.5 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.000993</g:gtin>
       <g:mpn>A.000993</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -1136,11 +1202,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>26.4 JOD</g:price>
+      <g:sale_price>26.4 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.002186</g:gtin>
       <g:mpn>A.002186</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -1153,11 +1220,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>26.4 JOD</g:price>
+      <g:sale_price>26.4 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.003541</g:gtin>
       <g:mpn>A.003541</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -1170,11 +1238,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>26.4 JOD</g:price>
+      <g:sale_price>26.4 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.004915</g:gtin>
       <g:mpn>A.004915</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -1187,11 +1256,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>26.4 JOD</g:price>
+      <g:sale_price>26.4 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.003852</g:gtin>
       <g:mpn>A.003852</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -1204,11 +1274,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>26.4 JOD</g:price>
+      <g:sale_price>26.4 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.003132</g:gtin>
       <g:mpn>A.003132</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -1221,11 +1292,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>26.4 JOD</g:price>
+      <g:sale_price>26.4 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.003540</g:gtin>
       <g:mpn>A.003540</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -1238,11 +1310,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>26.4 JOD</g:price>
+      <g:sale_price>26.4 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.000884</g:gtin>
       <g:mpn>A.000884</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -1255,11 +1328,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>26.4 JOD</g:price>
+      <g:sale_price>26.4 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.004028</g:gtin>
       <g:mpn>A.004028</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -1272,11 +1346,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>26.4 JOD</g:price>
+      <g:sale_price>26.4 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.001596</g:gtin>
       <g:mpn>A.001596</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -1289,11 +1364,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>26.2 JOD</g:price>
+      <g:sale_price>26.2 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.003569</g:gtin>
       <g:mpn>A.003569</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -1306,11 +1382,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>26.1 JOD</g:price>
+      <g:sale_price>26.1 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.003035</g:gtin>
       <g:mpn>A.003035</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -1323,11 +1400,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>26.1 JOD</g:price>
+      <g:sale_price>26.1 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.005228</g:gtin>
       <g:mpn>A.005228</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -1340,11 +1418,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>25.9 JOD</g:price>
+      <g:sale_price>25.9 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.005284</g:gtin>
       <g:mpn>A.005284</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -1357,11 +1436,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>25.7 JOD</g:price>
+      <g:sale_price>25.7 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.003457</g:gtin>
       <g:mpn>A.003457</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -1374,11 +1454,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>25 JOD</g:price>
+      <g:sale_price>25 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.004774</g:gtin>
       <g:mpn>A.004774</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -1391,11 +1472,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>23.9 JOD</g:price>
+      <g:sale_price>23.9 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.000157</g:gtin>
       <g:mpn>A.000157</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -1408,11 +1490,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>23.5 JOD</g:price>
+      <g:sale_price>23.5 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.000497</g:gtin>
       <g:mpn>A.000497</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -1425,11 +1508,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>23.2 JOD</g:price>
+      <g:sale_price>23.2 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.002187</g:gtin>
       <g:mpn>A.002187</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -1442,11 +1526,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>23.2 JOD</g:price>
+      <g:sale_price>23.2 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.005643</g:gtin>
       <g:mpn>A.005643</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -1459,11 +1544,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>23.2 JOD</g:price>
+      <g:sale_price>23.2 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.003086</g:gtin>
       <g:mpn>A.003086</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -1476,11 +1562,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>22.7 JOD</g:price>
+      <g:sale_price>22.7 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.003422</g:gtin>
       <g:mpn>A.003422</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -1493,11 +1580,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>22.7 JOD</g:price>
+      <g:sale_price>22.7 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.000855</g:gtin>
       <g:mpn>A.000855</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -1510,11 +1598,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>22.5 JOD</g:price>
+      <g:sale_price>22.5 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.003258</g:gtin>
       <g:mpn>A.003258</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -1527,11 +1616,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>22.1 JOD</g:price>
+      <g:sale_price>22.1 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.004896</g:gtin>
       <g:mpn>A.004896</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -1544,11 +1634,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>22.1 JOD</g:price>
+      <g:sale_price>22.1 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.003209</g:gtin>
       <g:mpn>A.003209</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
     <item>
@@ -1561,11 +1652,12 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>21.1 JOD</g:price>
+      <g:sale_price>21.1 JOD</g:sale_price>
       <g:brand>سوق الأردن</g:brand>
       <g:gtin>A.000393</g:gtin>
       <g:mpn>A.000393</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:google_product_category>Electronics</g:google_product_category>
+      <g:google_product_category>1279</g:google_product_category>
       <g:product_type>منتجات متنوعة</g:product_type>
     </item>
   </channel>
