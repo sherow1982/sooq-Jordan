@@ -1,38 +1,34 @@
-# Enable GZIP Compression
-<IfModule mod_deflate.c>
-  AddOutputFilterByType DEFLATE text/html text/plain text/xml text/css text/javascript application/javascript application/json application/xml
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteBase /
+    
+    # حيادة /products/ إلى الرئيسية
+    RewriteRule ^products/?$ / [R=301,L]
+    
+    # حيادة google-merchant-feed.xml إلى الرئيسية
+    RewriteRule ^google-merchant-feed\.xml$ / [R=301,L]
+    
+    # حيادة HTML - إزالة الـ .html
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteRule ^([^.]+)$ .html [L]
+    
+    # HTTPS
+    RewriteCond %{HTTPS} off
+    RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
 </IfModule>
 
-# Browser Caching
+# Cache Headers
 <IfModule mod_expires.c>
-  ExpiresActive On
-  ExpiresByType image/jpg "access plus 1 year"
-  ExpiresByType image/jpeg "access plus 1 year"
-  ExpiresByType image/gif "access plus 1 year"
-  ExpiresByType image/png "access plus 1 year"
-  ExpiresByType image/webp "access plus 1 year"
-  ExpiresByType text/css "access plus 1 month"
-  ExpiresByType application/javascript "access plus 1 month"
-  ExpiresByType application/pdf "access plus 1 month"
-  ExpiresByType text/html "access plus 1 hour"
+    ExpiresActive On
+    ExpiresByType image/jpeg "access plus 1 year"
+    ExpiresByType text/css "access plus 1 month"
+    ExpiresByType application/javascript "access plus 1 month"
 </IfModule>
 
-# Security Headers
-<IfModule mod_headers.c>
-  Header set X-Content-Type-Options "nosniff"
-  Header set X-Frame-Options "SAMEORIGIN"
-  Header set X-XSS-Protection "1; mode=block"
-  Header set Referrer-Policy "strict-origin-when-cross-origin"
+# Gzip Compression
+<IfModule mod_gzip.c>
+    mod_gzip_on On
+    mod_gzip_comp_level 6
+    mod_gzip_item_include file \.(html|txt|css|js|php|xml)$
 </IfModule>
-
-# Custom Error Pages
-ErrorDocument 404 /404.html
-
-# Redirect www to non-www
-RewriteEngine On
-RewriteCond %{HTTP_HOST} ^www\.sooq-alurdun\.arabsad\.com [NC]
-RewriteRule ^(.*)$ https://sooq-alurdun.arabsad.com/$1 [R=301,L]
-
-# Force HTTPS
-RewriteCond %{HTTPS} off
-RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
