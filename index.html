@@ -92,7 +92,7 @@
                             const salePrice = product.sale_price || '0';
                             const originalPrice = product.price || '0';
                             const imageLink = product.image_link || 'https://via.placeholder.com/300';
-                            const githubProductLink = `https://github.com/sherow1982/sooq-Jordan/blob/main/products/\$\{encodeURIComponent\(product\.slug\)\}\.html`;
+                            const productLink = `https://sherow1982.github.io/sooq-Jordan/products/${product.slug}.html`;
                             
                             // عرض السعرين مع strikethrough
                             let pricesHTML = `<div class="product-price">${salePrice} د.ا</div>`;
@@ -134,6 +134,7 @@
     </script>
 </body>
 </html>
+
 
 
 
